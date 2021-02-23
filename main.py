@@ -66,7 +66,6 @@ def level2Enter():
             print("Error! This is not a valid response. Try again. ")
 
 def level2Leave():
-  #work in progress modify as needed
   print("inside leaving village function")
   alive = True
   return alive
